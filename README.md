@@ -1,2 +1,2 @@
 # java-examples
-Java code Samples
+This repo contains some examples using new features of java
